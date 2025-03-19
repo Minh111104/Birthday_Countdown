@@ -25,3 +25,14 @@ A simple React-based countdown timer that calculates and displays the time remai
   ```
 
 This will start the app at http://localhost:3000/ in your browser.
+
+## 🏗️ Project Structure
+  ```
+    📂 birthday-countdown
+     ┣ 📂 src
+     ┃ ┣ 📜 index.js  # Main entry file
+     ┃ ┣ 📜 BirthdayCountdown.js  # Countdown component
+     ┃ ┣ 📜 index.css  # Global styles
+     ┣ 📜 package.json  # Project dependencies
+     ┣ 📜 README.md  # Project documentation
+  ```
