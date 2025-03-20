@@ -36,3 +36,7 @@ This will start the app at http://localhost:3000/ in your browser.
      ┣ 📜 package.json  # Project dependencies
      ┣ 📜 README.md  # Project documentation
   ```
+## 🎨 Customization
+You can modify your birthday by editing `src/BirthdayCountdown.js`:
+Change these values to match your actual birthday!
+
