@@ -51,4 +51,3 @@ const BirthdayCountdown = () => {
 };
 
 export default BirthdayCountdown;
-
