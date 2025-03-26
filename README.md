@@ -39,4 +39,3 @@ This will start the app at http://localhost:3000/ in your browser.
 ## 🎨 Customization
 You can modify your birthday by editing `src/BirthdayCountdown.js`:
 Change these values to match your actual birthday!
-
