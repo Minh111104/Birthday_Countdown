@@ -28,13 +28,22 @@ This will start the app at http://localhost:3000/ in your browser.
 
 ## 🏗️ Project Structure
   ```
-    📂 birthday-countdown
-     ┣ 📂 src
-     ┃ ┣ 📜 index.js  # Main entry file
-     ┃ ┣ 📜 BirthdayCountdown.js  # Countdown component
-     ┃ ┣ 📜 index.css  # Global styles
-     ┣ 📜 package.json  # Project dependencies
-     ┣ 📜 README.md  # Project documentation
+📂 birthday-countdown
+ ┣ 📂 src
+ ┃ ┣ 📜 App.css
+ ┃ ┣ 📜 App.js
+ ┃ ┣ 📜 App.test.js
+ ┃ ┣ 📜 reportWebVitals.js
+ ┃ ┣ 📜 setupTests.js
+ ┃ ┣ 📜 tailwind.config.js
+ ┃ ┣ 📜 index.js
+ ┃ ┣ 📜 BirthdayCountdown.js  # Countdown component
+ ┃ ┣ 📜 index.css  # Global styles
+ ┣ 📂 public
+ ┃ ┣ 📜 index.html  # Root HTML file
+ ┣ 📜 package.json  # Project dependencies
+ ┣ 📜 README.md  # Documentation
+
   ```
 ## 🎨 Customization
 You can modify your birthday by editing `src/BirthdayCountdown.js`:
